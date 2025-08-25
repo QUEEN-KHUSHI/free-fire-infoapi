@@ -1,3 +1,3 @@
 UID = "3869404928"
 PASS = "5A89E5BEAEBDEF416A13077520530C3A61F28081FFE269C581E5FC26A9EFA3F6"
-URL = "https://nexx32jwt.onrender.com/fetch-token"
+URL = "http://jwt.thug4ff.com/token"
