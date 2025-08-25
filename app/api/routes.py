@@ -40,7 +40,7 @@ def get_player_info():
         url = "https://client.ind.freefiremobile.com/GetPlayerPersonalShow"
         headers = {
             "X-Unity-Version": "2018.4.11f1",
-            "ReleaseVersion": "OB48",
+            "ReleaseVersion": "OB50",
             "Content-Type": "application/x-www-form-urlencoded",
             "X-GA": "v1 1",
             "Authorization": f"Bearer {token}",
